@@ -1,17 +1,23 @@
 #addDeliciousTreat {
-    background: pink;
+    background: lightskyblue;
 }
 
 body {
-    padding-top: 30px;
+    background-image: url("../images/sprinkles.png");
+    padding-top: 30px; 
 }
 
 button {
-    background: pink;
+    background: lightskyblue;
 }
 
 #form {
-        float: right;
-        padding: 30px;
-        width: 300px;
+    float: right;
+    padding: 30px;
+    width: 300px;
+}
+
+.newTreatDiv {
+    display: inline-block;
+    padding: 15px;
 }
